@@ -1,0 +1,47 @@
+.bold-text {
+  font-weight: bolder;
+}
+.heading-text {
+  font-size: 25px;
+  color: #007bff;
+  font-weight: bolder;
+  text-align: center;
+}
+.icon-color {
+  color: darkslategrey;
+}
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #007bff;
+}
+.no-books {
+  font-size: 25px;
+  color: #c59b4d;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 30px;
+}
+.view-dropdown {
+  background-color: rgb(164, 213, 243);
+  border-radius: 3px;
+  float: left;
+}
+.grid-layout {
+  background-color: lightskyblue;
+}
+body {
+  background-color: lightyellow;
+}
+
+.search,
+.search-input-field {
+  text-align: center;
+}
+
+.error-text {
+  font-size: 15px;
+  color: red;
+  text-align: center;
+}
